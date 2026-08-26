@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: juj-piano-tab-extractor
+    runtime: static
+    staticPublishPath: ./site
+    buildCommand: ""
